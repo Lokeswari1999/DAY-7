@@ -1,0 +1,7 @@
+Assign the input number to variable x.
+Take the input from user.
+Do bitwise operation x with user input for even bits so we get all even bit. 
+Do bitwise operation x with user input for odd bits we get all odd bit.
+Right shift all even bits. 
+Left shift all odd bits. 
+Use logiacal OR opeartion to add both even and odd bits and return.
